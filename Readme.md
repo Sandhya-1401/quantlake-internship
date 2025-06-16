@@ -26,12 +26,14 @@ This repo documents all my learning, tasks, and projects completed during the in
 
 ## 📬 Contact
 
-Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya) | [Github](https://www.github.com/Sandhya-1401)
+Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya) | [Github](https://www.github.com/Sandhya-1401)<br>
+
 For any queries or collaborations, feel free to connect.
 
 ---
 
 Thanks for visiting 🌟<br>
+
 Stay tuned for updates and project uploads <br>
 
 ⭐ _If you found this helpful, Star the Repo !!_
