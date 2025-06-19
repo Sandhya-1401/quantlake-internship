@@ -21,3 +21,32 @@ Google Colab (also tested in VS Code Jupyter extension)
 
 **Challenges:**
 - No major blockers. Setup was smooth.
+
+---
+
+## 📅 Day 2 – 17 June 2025
+
+**Environment Used:**  
+VS Code with Jupyter extension
+
+**Topics Practiced:**
+- Core data structures: list, tuple, set, dictionary
+- List comprehension & nested dictionary access
+- Writing functions: factorial, prime check
+- Using built-in modules: `math`, `random`, `datetime`
+- Exception handling: try, except, finally
+- Mini logic problems: FizzBuzz, max in list, string reversal
+
+**Tasks Completed:**
+- Created and pushed `day2_python_fundamentals.ipynb` inside `training/`
+- Implemented multiple practical examples and exercises
+- Logged work in this `progress.md` file
+
+**Learnings:**
+- Improved confidence with data structures
+- Gained better clarity on writing reusable functions
+- Learned how to handle runtime errors gracefully
+- Strengthened logic through small coding challenges
+
+**Challenges:**
+- Slight confusion in exception handling syntax, resolved with testing and debug
