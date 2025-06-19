@@ -24,7 +24,7 @@ Google Colab (also tested in VS Code Jupyter extension)
 
 ---
 
-## 📅 Day 2 – 17 June 2025
+## 📅 Day 2 – 19 June 2025
 
 **Environment Used:**  
 VS Code with Jupyter extension
