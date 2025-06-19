@@ -27,7 +27,7 @@ Google Colab (also tested in VS Code Jupyter extension)
 ## 📅 Day 2 – 19 June 2025
 
 **Environment Used:**  
-VS Code with Jupyter extension
+Google Colab (also tested in VS Code Jupyter extension)
 
 **Topics Practiced:**
 - Core data structures: list, tuple, set, dictionary
