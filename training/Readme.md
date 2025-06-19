@@ -4,7 +4,7 @@ This folder contains all learning phase tasks from **Phase 1** of the QuantLake 
 
 ### 📌 Contents:
 - Daily Python notebooks  
-  (e.g., `day1_python_basics.ipynb`, `day2_data_analysis.ipynb`, etc.)
+  (e.g., `day1_python_basics.ipynb`, `day2_python_fundamentals.ipynb`, etc.)
 - Practice exercises and mini projects  
 - Well-structured code with markdown explanations  
 - Daily task-wise progress files
