@@ -50,3 +50,36 @@ Google Colab (also tested in VS Code Jupyter extension)
 
 **Challenges:**
 - Slight confusion in exception handling syntax, resolved with testing and debug
+
+---
+
+## 📅 Day 3 – 20 June 2025
+
+**Environment Used:**  
+Google Colab (verified in VS Code Jupyter extension)
+
+**Dataset Used:**  
+- Seaborn's built-in **Iris** dataset  
+- Also created dummy DataFrame and Series using dictionaries and lists
+
+**Topics Practiced:**
+- Pandas Series & DataFrame creation
+- Dataset exploration using `.head()`, `.info()`, `.describe()`, `.isnull().sum()`
+- Accessing and filtering data with `df['col']`, `.loc[]`, `.iloc[]`
+- Modifying data (adding, dropping columns)
+- Aggregation methods: `.sort_values()`, `.value_counts()`, `.mean()`, `.sum()`, `.max()`, etc.
+
+**Tasks Completed:**
+- Created and pushed `day3_pandas_intro.ipynb` inside `training/`
+- Practiced Pandas with both dummy and real datasets
+- Logged progress with key syntax and learning in this `progress.md`
+
+**Learnings:**
+- Understood the difference between Pandas Series and DataFrame
+- Learned how to inspect, clean, and manipulate tabular data
+- Explored aggregation and statistical summaries for EDA
+- Practiced building clean and well-structured Pandas code
+
+**Challenges:**
+- Minor confusion with `.iloc[]` slicing and column selection syntax — resolved by experimenting with samples
+
