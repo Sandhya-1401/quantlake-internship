@@ -83,3 +83,34 @@ Google Colab (verified in VS Code Jupyter extension)
 **Challenges:**
 - Minor confusion with `.iloc[]` slicing and column selection syntax — resolved by experimenting with samples
 
+---
+
+## 📅 Day 4 – 23 June 2025
+
+**Environment Used:**  
+Google Colab (also tested in VS Code Jupyter extension)
+
+**Dataset Used:**  
+- Sample Superstore Dataset (from Kaggle)
+
+**Topics Practiced:**
+- Indexing and slicing with `.loc[]` and `.iloc[]`
+- Conditional filtering and multi-level sorting
+- Identifying and handling missing values using `.isnull()`, `.dropna()`, `.fillna()`
+- Grouping and aggregation using `.groupby()` and `.agg()`
+- Merging DataFrames using `pd.merge()` with inner and outer joins
+
+**Tasks Completed:**
+- Created and pushed `day4_data_manipulation_1.ipynb` inside `training/`
+- Applied all core Pandas data manipulation operations
+- Logged learnings and insights in this `progress.md` file
+
+**Learnings:**
+- Gained clarity on slicing rows and columns with label- and index-based methods
+- Learned to clean messy datasets and fill missing data efficiently
+- Practiced summarizing data with groupby and multi-aggregation
+- Understood real-world joining of datasets via merging techniques
+
+**Challenges:**
+- Initially mixed up merge `on=` keys — resolved by reading official Pandas docs
+- Practiced multiple join types to clearly understand the data impact
