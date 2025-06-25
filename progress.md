@@ -1,6 +1,6 @@
-# 📝 Internship Progress Log – QuantLake
+# Internship Progress Log – QuantLake 📝
 
-## 📅 Day 1 – 16 June 2025
+### 📅 Day 1 – 16 June 2025
 
 **Environment Used:**  
 Google Colab (also tested in VS Code Jupyter extension)
@@ -24,7 +24,7 @@ Google Colab (also tested in VS Code Jupyter extension)
 
 ---
 
-## 📅 Day 2 – 19 June 2025
+### 📅 Day 2 – 19 June 2025
 
 **Environment Used:**  
 Google Colab (also tested in VS Code Jupyter extension)
@@ -53,7 +53,7 @@ Google Colab (also tested in VS Code Jupyter extension)
 
 ---
 
-## 📅 Day 3 – 20 June 2025
+### 📅 Day 3 – 20 June 2025
 
 **Environment Used:**  
 Google Colab (verified in VS Code Jupyter extension)
@@ -85,7 +85,7 @@ Google Colab (verified in VS Code Jupyter extension)
 
 ---
 
-## 📅 Day 4 – 23 June 2025
+### 📅 Day 4 – 23 June 2025
 
 **Environment Used:**  
 Google Colab (also tested in VS Code Jupyter extension)
@@ -114,3 +114,35 @@ Google Colab (also tested in VS Code Jupyter extension)
 **Challenges:**
 - Initially mixed up merge `on=` keys — resolved by reading official Pandas docs
 - Practiced multiple join types to clearly understand the data impact
+
+--- 
+
+### 📅 Day 5 – 25 June 2025
+
+**Environment Used:**  
+Google Colab (verified in VS Code Jupyter extension)
+
+**Dataset Used:**  
+- Superstore Sales Dataset (from Kaggle)
+
+**Topics Practiced:**
+- Reshaping with `.pivot()`, `.pivot_table()`, `.melt()`
+- Applying functions with `.apply()` and `lambda`
+- Cleaning/transformation with `.map()` and `.replace()`
+- Concatenating DataFrames with `pd.concat()`
+- Building end-to-end data transformation pipelines
+
+**Tasks Completed:**
+- Created and pushed `day5_data_manipulation_2.ipynb` inside `training/`
+- Performed advanced data reshaping, feature engineering, and combination
+- Logged today’s learning and reflections in this `progress.md` file
+
+**Learnings:**
+- Understood how to convert wide to long format and vice versa
+- Learned how to build derived columns with conditional logic
+- Became confident in merging datasets and chaining transformations
+
+**Challenges:**
+- Faced minor issues with pivoting on multiple levels — resolved with sample testing
+- Initially confused with axis parameter in `pd.concat()`, clarified through examples
+
